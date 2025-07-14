@@ -182,4 +182,7 @@ footer input[type="textarea"] {
   margin-bottom: 24px;
   border: none;
 }
-
+.box{
+  width: 562px;
+  height: 56px;
+}
